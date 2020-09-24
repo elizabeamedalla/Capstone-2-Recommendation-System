@@ -28,3 +28,8 @@ Matrix Factorization Based Algorithms: SVD, SVDpp and NMF
 Other Collaborative Filtering Algorithms:: SlopeOne, CoClustering
 
 Even with or without hypertuning, KNN Basic is the best model to use since this has the lowest RMSE score.  Some things to keep in mind are what type of similarities you should use. These can all have fairly substantial effects on the overall performance of the model.
+
+Data Cleaning - 
+Exploratory Data Analysis -
+Statistical Inference -
+Recommendation Engine - 
